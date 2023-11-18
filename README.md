@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LenKennedy
 - 👀 I’m interested in creating word games and quizzes
 - 🌱 I’m currently learning JavaScript so that I can create word games and quizzes
+- I enjoy reading, writing, and walking.
 - 📫 I can be reached by email: lenkennedy@optusnet.com.au
 
 <!---
